@@ -1,4 +1,6 @@
 # Skin Sight App
+![SkinSight](https://github.com/SkinSightApp/.github/assets/80873008/3843bf3d-17a1-4849-a43a-8c7aca21ba15)
+
 Repositories for Bangkit 2024 Batch 1 Capstone project
 
 SkinSight is a mobile app that uses image recognition to automatically identify facial skin problems and recommend suitable treatment products. 
